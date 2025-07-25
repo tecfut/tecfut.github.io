@@ -4,7 +4,7 @@ title: "Bienvenido a la Transformación Digital: Servicios Clave para Empresas C
 date: 2025-06-28 16:41 -0500
 categories: [Tecnología Empresarial]
 tags: [Inteligencia Artificial, Productividad, Ciberseguridad, Automatización, Finanzas]
-author: [TECFUT]
+author: [admin]
 ---
 
 ## 🔹 Introducción  
@@ -59,4 +59,4 @@ La IA no es el futuro, es el presente. Algunas aplicaciones clave:
 ## 🔮 Conclusión  
 La transformación digital ya no es opcional. Con **IA, cloud computing y automatización**, las empresas pueden **optimizar costos, mejorar seguridad y escalar operaciones**. ¿Estás listo para evolucionar?  
 
-**🚀 Contáctanos para una auditoría tecnológica gratuita.**  
+**🚀 Contáctanos para una auditoría tecnológica gratuita, info@tecfut.com**
