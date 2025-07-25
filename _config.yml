@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
   Soluciones tecnologicas para empresas y particulares.
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://tecfut.github.io"
+url: "https://tecfut.com"
 
 github:
   username: tecfut # change to your GitHub username
